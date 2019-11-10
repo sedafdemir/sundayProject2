@@ -3,6 +3,9 @@ public class first {
         System.out.println("Hello");
         System.out.println("Made changes");
         System.out.println("second cchange");
+         System.out.println("second cchange");
+         System.out.println("second cchange");
+         System.out.println("second cchange");
         
     }
 }
